@@ -23,7 +23,7 @@
                                     <constraint firstAttribute="width" secondItem="W5c-5b-c39" secondAttribute="height" multiplier="1:1" id="5dt-y4-nAH"/>
                                 </constraints>
                             </view>
-                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="1" minValue="0.29999999999999999" maxValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="6lL-Eo-VTU">
+                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="1" minValue="0.5" maxValue="2" translatesAutoresizingMaskIntoConstraints="NO" id="6lL-Eo-VTU">
                                 <rect key="frame" x="22" y="586" width="370" height="31"/>
                                 <connections>
                                     <action selector="sliderValueChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="aoi-b3-Rtr"/>
